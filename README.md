@@ -1,4 +1,12 @@
-# Cinema3FrontWeb
+# Projet de gestion des Cinémas basé sur Spring pour la partie Back end, et Angular pour la partie Front end.
+## Les éléments de base de la partie backend, sont:
+## Les entités JPA
+## les interfaces JPA Repository
+## La couche service
+## le test de la couche DAO
+## les API Restful
+## Comment tester la partie Backend
+## Une partie de la partie Frontend basée sur Angular Framewok
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
