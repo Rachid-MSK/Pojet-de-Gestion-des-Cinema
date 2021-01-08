@@ -6,7 +6,7 @@
 ## le test de la couche DAO
 ## les API Restful
 ## Comment tester la partie Backend
-## Une partie de la partie Frontend basée sur Angular Framewok
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
