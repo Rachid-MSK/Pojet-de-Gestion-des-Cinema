@@ -17,7 +17,8 @@ import { FormsModule } from '@angular/forms';
     HttpClientModule,
     FormsModule,
     RouterModule.forRoot([
-      {path: "cinema", component: CinemaComponent}
+      {path: "cinema", component: CinemaComponent},
+      {path: "", redirectTo: "/cinema", pathMatch: "full"}
     ])
   ],
   providers: [],
