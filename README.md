@@ -1,5 +1,5 @@
 # Projet de gestion des Cinémas basé sur Spring pour la partie Back end, et Angular pour la partie Front end.
-## Les éléments de base de la partie backend, sont:
+## Les éléments de base de la partie backend, sont: 
 ## Les entités JPA
 ## les interfaces JPA Repository
 ## La couche service
